@@ -13,19 +13,20 @@ This document describes the data variables used in the project and any transform
 
 ## Primary Variables
 
-     Subjects - An identifier for each of the 30 subjects that participated in the study.  Subjects      are numbered 1 through 30.
+     Subjects - An identifier for each of the 30 subjects that participated in the study.  Subjects are numbered 1 through 
+     30.
      ActivityCode - An identifier for the type of activity.  
           ActivityCode factor values are:
-          WALKING
-          WALKING_UPSTAIRS
-          WALKING_DOWNSTAIRS
-          SITTING
-          STANDING
-          LAYING
+               WALKING
+               WALKING_UPSTAIRS
+               WALKING_DOWNSTAIRS
+               SITTING
+               STANDING
+               LAYING
 
 ## Metrics
 
-A summary of the average metrics that were obtained in the final dataset.  For 
+A summary of the average metrics that were obtained in the final dataset.
 
      tBodyAcc-mean()-X                 tBodyAcc-mean()-Y               
      tBodyAcc-mean()-Z                 tBodyAcc-std()-X                
